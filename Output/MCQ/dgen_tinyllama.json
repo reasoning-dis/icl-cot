@@ -1,0 +1,3887 @@
+[
+    {
+        "answer": "pheromone",
+        "distractors": [
+            "enzyme",
+            "isolate",
+            "amino"
+        ],
+        "sentence": "____ is used to describe a chemical released by an animal that affects the behavior or physiology of animals of the same species",
+        "generated_distractors": [
+            "smell",
+            "eye",
+            "skin"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "autotrophic",
+        "distractors": [
+            "endoscopic",
+            "symbiotic",
+            "mutualistic"
+        ],
+        "sentence": "Producers at the base of ecological food webs are also known as ____",
+        "generated_distractors": [
+            "heterotrophic",
+            "bacteria",
+            "endotrophic"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "ozone",
+        "distractors": [
+            "dioxide",
+            "carbon",
+            "sulphur"
+        ],
+        "sentence": "the term for the gas in smog that can damage plants is ____",
+        "generated_distractors": [
+            "carbon",
+            "sulfur",
+            "chromium"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "lungs",
+        "distractors": [
+            "ovaries",
+            "intestines",
+            "kidneys"
+        ],
+        "sentence": "the main organs of the respiratory system are ____",
+        "generated_distractors": [
+            "liver",
+            "heart",
+            "skin"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "oxygen",
+        "distractors": [
+            "carbon",
+            "hydrogen",
+            "nitrogen"
+        ],
+        "sentence": "The products of photosynthesis are glucose and ____ else ",
+        "generated_distractors": [
+            "carbon",
+            "argon",
+            "sulfur"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "gravity",
+        "distractors": [
+            "kinetic",
+            "electromagnetic",
+            "weight"
+        ],
+        "sentence": "____ is responsible for erosion by flowing water and glaciers",
+        "generated_distractors": [
+            "friction",
+            "erosion",
+            "evaporation"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "igneous",
+        "distractors": [
+            "granite",
+            "sedementary",
+            "metamorphic"
+        ],
+        "sentence": "____ of rocks form from cooled magma or lava",
+        "generated_distractors": [
+            "sedimentary",
+            "metarmorphic",
+            "seismic"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "flowers",
+        "distractors": [
+            "leaves",
+            "stems",
+            "roots"
+        ],
+        "sentence": "Gymnosperms have seeds but do not have ____ ",
+        "generated_distractors": [
+            "spores",
+            "leaves",
+            "stem"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "photosynthesis",
+        "distractors": [
+            "erosion",
+            "electrolysis",
+            "reproduction"
+        ],
+        "sentence": "Some 96 % of the dry mass consists of organic compounds produced by ____ ",
+        "generated_distractors": [
+            "respiration",
+            "metabolism",
+            "glycolysis"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "sessile",
+        "distractors": [
+            "Undrate",
+            "obovate",
+            "ovate"
+        ],
+        "sentence": "it is called ____ when something is unable to move from place to place",
+        "generated_distractors": [
+            "variable",
+            "special",
+            "different"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "radio",
+        "distractors": [
+            "sound",
+            "microwaves",
+            "light"
+        ],
+        "sentence": "the broad range of electromagnetic waves with the longest wavelengths and lowest frequencies are ____",
+        "generated_distractors": [
+            "light",
+            "microscopic",
+            "electrical"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "diffract",
+        "distractors": [
+            "refract",
+            "adduce",
+            "reflect"
+        ],
+        "sentence": "Light waves which interfere with themselves after interaction with a small aperture or target are said to ____ ",
+        "generated_distractors": [
+            "bounce",
+            "reflect",
+            "amplify"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "rate",
+        "distractors": [
+            "flow",
+            "displacement",
+            "acceleration"
+        ],
+        "sentence": "Distance traveled divided by time yields ____ measurement , which is another word used to describe the speed of a chemical reaction ",
+        "generated_distractors": [
+            "acceleration",
+            "momentum",
+            "volume"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "reproductive",
+        "distractors": [
+            "aggressive",
+            "immune",
+            "cardiac"
+        ],
+        "sentence": "Common among mammals and insects , pheromones are often related to ____ type of behavior ",
+        "generated_distractors": [
+            "territorial",
+            "social",
+            "sexual"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "mitochondria",
+        "distractors": [
+            "proteins",
+            "carbohydrates",
+            "plasma"
+        ],
+        "sentence": "In recent years , however , researchers have discovered that microsporidia actually have tiny organelles derived from ____ ",
+        "generated_distractors": [
+            "ribosomes",
+            "chromosomes",
+            "cytoskeleton"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "pollination",
+        "distractors": [
+            "vegetation",
+            "reproduction",
+            "hibernation"
+        ],
+        "sentence": "the greatest contribution of arthropods to human food supply is ____",
+        "generated_distractors": [
+            "energy",
+            "transportation",
+            "manufacturing"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "genes",
+        "distractors": [
+            "DNA",
+            "RNA",
+            "codons"
+        ],
+        "sentence": "proteins are encoded by ____",
+        "generated_distractors": [
+            "chromosomes",
+            "ribosomes",
+            "eggs"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "pyruvic",
+        "distractors": [
+            "rain",
+            "chloride",
+            "lipoic"
+        ],
+        "sentence": "In alcoholic fermentation , ____ acid changes to alcohol and carbon dioxide ",
+        "generated_distractors": [
+            "glucuronic",
+            "fumaric",
+            "sulfuric"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "halkieria",
+        "distractors": [
+            "trichina",
+            "wormidanopis",
+            "spirogyra"
+        ],
+        "sentence": "another term for scale worms is ____",
+        "generated_distractors": [
+            "pollenation",
+            "xerophyte",
+            "heliotrope"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "anemometer",
+        "distractors": [
+            "barometer",
+            "photometer",
+            "dynamometer"
+        ],
+        "sentence": "____ of device do scientist use to determine wind speed",
+        "generated_distractors": [
+            "thermometer",
+            "barometer",
+            "magnetometer"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "orion",
+        "distractors": [
+            "Caelum",
+            "Apus",
+            "Andromeda"
+        ],
+        "sentence": "____ looks like a rectangle high in winter 's south-southeastern sky",
+        "generated_distractors": [
+            "canis",
+            "gemini",
+            "leo"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "virus",
+        "distractors": [
+            "bacteria",
+            "mucus",
+            "carcinogens"
+        ],
+        "sentence": "____ can reproduce by infecting the cell of a living host",
+        "generated_distractors": [
+            "bacteria",
+            "worm",
+            "parasite"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "frost",
+        "distractors": [
+            "distillate",
+            "glacier",
+            "dew"
+        ],
+        "sentence": "solid water that forms when water vapor undergoes deposition is ____",
+        "generated_distractors": [
+            "condensation",
+            "steam",
+            "liquid"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "viscosity",
+        "distractors": [
+            "friction",
+            "elasticity",
+            "salinity"
+        ],
+        "sentence": "the term for the measure of a fluid 's thickness is ____",
+        "generated_distractors": [
+            "turbulence",
+            "permeability",
+            "elasticity"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "fungi",
+        "distractors": [
+            "pollen",
+            "helium",
+            "yeast"
+        ],
+        "sentence": "____ reduces the need for pesticides and other toxic chemicals",
+        "generated_distractors": [
+            "bacteria",
+            "insects",
+            "plant"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "interneurons",
+        "distractors": [
+            "histones",
+            "anions",
+            "synapses"
+        ],
+        "sentence": "Types of neurons include sensory neurons , motor neurons , and ____",
+        "generated_distractors": [
+            "axons",
+            "neurons",
+            "axial"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "mycosis",
+        "distractors": [
+            "mydriasis",
+            "mitosis",
+            "acrobasis"
+        ],
+        "sentence": "the term for an infection is caused ____ by a fungal parasite",
+        "generated_distractors": [
+            "gastrointestinal",
+            "sclerosis",
+            "malnutrition"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "light",
+        "distractors": [
+            "water",
+            "oxygen",
+            "air"
+        ],
+        "sentence": "Some plants can detect increased levels of ____ when reflected from leaves of encroaching neighbors ",
+        "generated_distractors": [
+            "height",
+            "temperature",
+            "pressure"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "crests",
+        "distractors": [
+            "peaks",
+            "troughs",
+            "ridges"
+        ],
+        "sentence": "the high points of a transverse wave are called ____",
+        "generated_distractors": [
+            "peaks",
+            "waves",
+            "troughs"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "convection",
+        "distractors": [
+            "radiation",
+            "combustion",
+            "diffusion"
+        ],
+        "sentence": "the transfer of heat by a current is ____",
+        "generated_distractors": [
+            "conduction",
+            "radiation",
+            "diffusion"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "mylar",
+        "distractors": [
+            "layers",
+            "fabric",
+            "Softness"
+        ],
+        "sentence": "the name of film that polyester fibers form is ____",
+        "generated_distractors": [
+            "plastic",
+            "paper",
+            "cellulose"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "fungi",
+        "distractors": [
+            "algae",
+            "moss",
+            "bacteria"
+        ],
+        "sentence": "Most members of ____ kingdom of spore-making organisms grow on the forest floor , where the dark and damp environment is rich ",
+        "generated_distractors": [
+            "bacteria",
+            "plant",
+            "animal"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "gymnosperms",
+        "distractors": [
+            "Proteins",
+            "angiosperms",
+            "lipids"
+        ],
+        "sentence": "____ of vascular plants produce seeds in cones",
+        "generated_distractors": [
+            "angiosperms",
+            "ferns",
+            "gymnosperms"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "chromosome",
+        "distractors": [
+            "genome",
+            "enzymes",
+            "site"
+        ],
+        "sentence": "In fruit flies , all homeotic genes are found on one ____ ",
+        "generated_distractors": [
+            "genome",
+            "autosome",
+            "egg"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "mycologists",
+        "distractors": [
+            "egyptologists",
+            "musicologists",
+            "oncologists"
+        ],
+        "sentence": "the name for a biologist who studies fungi is ____",
+        "generated_distractors": [
+            "polyps",
+            "mammologists",
+            "parasitists"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "two",
+        "distractors": [
+            "five",
+            "one",
+            "three"
+        ],
+        "sentence": "____ different kinds of ions are produced when sodium chloride dissociates",
+        "generated_distractors": [
+            "three",
+            "six",
+            "five"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "quartz",
+        "distractors": [
+            "glass",
+            "pumice",
+            "cobalt"
+        ],
+        "sentence": "____ is made of one silicon atom and two oxygen atoms",
+        "generated_distractors": [
+            "magnesium",
+            "sand",
+            "diamond"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "four",
+        "distractors": [
+            "six",
+            "two",
+            "seven"
+        ],
+        "sentence": "cells have ____ cycles",
+        "generated_distractors": [
+            "five",
+            "seven",
+            "three"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "clouds",
+        "distractors": [
+            "stratosphere",
+            "air",
+            "troposphere"
+        ],
+        "sentence": "lightnings build up ____",
+        "generated_distractors": [
+            "earth",
+            "sky",
+            "storms"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "carbohydrates",
+        "distractors": [
+            "proteins",
+            "vitamins",
+            "fats"
+        ],
+        "sentence": "the main source of energy for your body is ____",
+        "generated_distractors": [
+            "fats",
+            "proteins",
+            "vitamins"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "lymphocytes",
+        "distractors": [
+            "Fat",
+            "erythrocytes",
+            "tumors"
+        ],
+        "sentence": "____ of cells make up about one quarter of all white blood cells",
+        "generated_distractors": [
+            "neutrophils",
+            "tumors",
+            "lungs"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "reduced",
+        "distractors": [
+            "immaterial",
+            "unaffected",
+            "increased"
+        ],
+        "sentence": "Without the dominant disturbance , the fire-adapted species are usually outcompeted and biodiversity is ____ ",
+        "generated_distractors": [
+            "extinct",
+            "collapsed",
+            "unified"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "reactant",
+        "distractors": [
+            "plasma",
+            "decomposition",
+            "stimulant"
+        ],
+        "sentence": "Redox reactions , like other chemical reactions , begin with a product and end with ____ ",
+        "generated_distractors": [
+            "fuel",
+            "catalyst",
+            "waste"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "uniformly",
+        "distractors": [
+            "variably",
+            "exponentially",
+            "erratically"
+        ],
+        "sentence": "alcohol expand ____ over a wide range of temperatures",
+        "generated_distractors": [
+            "compress",
+            "rapidly",
+            "weakly"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "cartilage",
+        "distractors": [
+            "socket",
+            "tendons",
+            "collagen"
+        ],
+        "sentence": "the bones in partly movable joints are held in place by ____",
+        "generated_distractors": [
+            "ligaments",
+            "bones",
+            "muscles"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "floral",
+        "distractors": [
+            "animal",
+            "reproductive",
+            "marine"
+        ],
+        "sentence": "Sepals , petals , stamens , and carpels are ____ kind of organs ",
+        "generated_distractors": [
+            "reproductive",
+            "innermost",
+            "leafy"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "water",
+        "distractors": [
+            "hydrogen",
+            "air",
+            "oxygen"
+        ],
+        "sentence": "the common term for the chemical formula h 2 0 is ____",
+        "generated_distractors": [
+            "gas",
+            "liquid",
+            "heat"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "seta",
+        "distractors": [
+            "sera",
+            "risa",
+            "porta"
+        ],
+        "sentence": "In moss , ____ becomes elongated to elevate the capsule to enhance spore dispersal ",
+        "generated_distractors": [
+            "band",
+            "stalk",
+            "node"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "velocity",
+        "distractors": [
+            "force",
+            "speed",
+            "acceleration"
+        ],
+        "sentence": "Displacement divided by time is equal to the average ____ ",
+        "generated_distractors": [
+            "intensity",
+            "amplitude",
+            "frequency"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "glucose",
+        "distractors": [
+            "glutamate",
+            "insulin",
+            "sucrose"
+        ],
+        "sentence": "The complete hydrolysis of starch yields ____ ",
+        "generated_distractors": [
+            "gallic acid",
+            "nitrogen",
+            "ethanol"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "teeth",
+        "distractors": [
+            "scales",
+            "plates",
+            "spines"
+        ],
+        "sentence": "In mammals , four specialized types of ____ serve to cut , tear , and grind food ",
+        "generated_distractors": [
+            "tongue",
+            "muscles",
+            "cheeks"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "gametophytes",
+        "distractors": [
+            "spores",
+            "copepods",
+            "bacteriophages"
+        ],
+        "sentence": "Like other bryophytes , moss plants spend most of their life cycle as ____",
+        "generated_distractors": [
+            "fungi",
+            "sporozoans",
+            "xerophytes"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "electricity",
+        "distractors": [
+            "light",
+            "pollution",
+            "sound"
+        ],
+        "sentence": "The best thermal conductors are also the best conductors of ____ , which is also related to the density of free electrons in them ",
+        "generated_distractors": [
+            "weight",
+            "momentum",
+            "pressure"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "blood",
+        "distractors": [
+            "muscle",
+            "bacteria",
+            "water"
+        ],
+        "sentence": "The average human body contains 5,830 g of ____ ",
+        "generated_distractors": [
+            "sand",
+            "water",
+            "bones"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "allopatric",
+        "distractors": [
+            "asexual",
+            "symbiotic",
+            "prokaryotic"
+        ],
+        "sentence": "____ of speciation occurs when groups from the same species are geographically isolated for long periods",
+        "generated_distractors": [
+            "geographically",
+            "patricient",
+            "autotrophic"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "evaporation",
+        "distractors": [
+            "absorption",
+            "condensation",
+            "transpiration"
+        ],
+        "sentence": "____ is defined as the change of water from its liquid phase to its gaseous phase",
+        "generated_distractors": [
+            "condensation",
+            "precipitation",
+            "transpiration"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "mutagens",
+        "distractors": [
+            "mutations",
+            "endogenous",
+            "dioxins"
+        ],
+        "sentence": "Radiation , chemicals , and infectious agents are types of ____ ",
+        "generated_distractors": [
+            "carcinogens",
+            "allergens",
+            "stimuli"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "transparent",
+        "distractors": [
+            "translucent",
+            "clean",
+            "bioluminescent"
+        ],
+        "sentence": "____ of matter transmits light without scattering it",
+        "generated_distractors": [
+            "weight",
+            "sound",
+            "electrical"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "water",
+        "distractors": [
+            "lead",
+            "methane",
+            "mercury"
+        ],
+        "sentence": "Steam actually consists of tiny droplets of liquid ____ ",
+        "generated_distractors": [
+            "air",
+            "gas",
+            "liquid"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "humans",
+        "distractors": [
+            "apes",
+            "reptiles",
+            "rats"
+        ],
+        "sentence": "____ has the greatest ability to learn",
+        "generated_distractors": [
+            "chickens",
+            "cars",
+            "fish"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "platelets",
+        "distractors": [
+            "protons",
+            "droplets",
+            "plasmids"
+        ],
+        "sentence": "Cells in blood include red blood cells , white blood cells , and ____ ",
+        "generated_distractors": [
+            "bones",
+            "lymphocytes",
+            "tumors"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "cytoplasm",
+        "distractors": [
+            "cerebellum",
+            "enamel",
+            "exoskeleton"
+        ],
+        "sentence": "The egg shell membrane encloses the nucleus containing the genetic material and ____ ",
+        "generated_distractors": [
+            "chromosomes",
+            "egg",
+            "nucleus"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "five",
+        "distractors": [
+            "six",
+            "one",
+            "four"
+        ],
+        "sentence": "____ mass distinctions have radically altered the history of life",
+        "generated_distractors": [
+            "six",
+            "four",
+            "three"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "electronegativity",
+        "distractors": [
+            "enthalpy",
+            "ionization",
+            "gravity"
+        ],
+        "sentence": "____ determines how strongly an atom attracts electrons to itself",
+        "generated_distractors": [
+            "atomicity",
+            "location",
+            "density"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "filtration",
+        "distractors": [
+            "diffusion",
+            "absorption",
+            "osmosis"
+        ],
+        "sentence": "the movement of fluid is out of the capillaries called ____",
+        "generated_distractors": [
+            "bleeding",
+            "regeneration",
+            "permeation"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "water",
+        "distractors": [
+            "oil",
+            "wine",
+            "blood"
+        ],
+        "sentence": "Compared to others , ____ type of liquid has a relatively high surface tension and heat capacity ",
+        "generated_distractors": [
+            "ice",
+            "air",
+            "light"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "rubber",
+        "distractors": [
+            "rayon",
+            "styrofoam",
+            "silicon"
+        ],
+        "sentence": "polyisoprene is better known as ____",
+        "generated_distractors": [
+            "leather",
+            "cement",
+            "wood"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "energy",
+        "distractors": [
+            "neutrons",
+            "mass",
+            "hydrogen"
+        ],
+        "sentence": "Every chemical reaction occurs with a concurrent change in ____ ",
+        "generated_distractors": [
+            "time",
+            "matter",
+            "space"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "lipids",
+        "distractors": [
+            "tissues",
+            "enzymes",
+            "proteins"
+        ],
+        "sentence": "Fatty acids , triglycerides , phospholipids , and steroids are examples of ____ ",
+        "generated_distractors": [
+            "proteins",
+            "acids",
+            "carbohydrates"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "land",
+        "distractors": [
+            "water",
+            "sand",
+            "tree"
+        ],
+        "sentence": "Not surprisingly , centipedes , millipedes and other members of the subphylum myriapoda are adapted to living on ____ ",
+        "generated_distractors": [
+            "water",
+            "air",
+            "bird"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "myriapoda",
+        "distractors": [
+            "trichina",
+            "spirogyra",
+            "organism"
+        ],
+        "sentence": "____ are found in moist forests that break down decaying plant material",
+        "generated_distractors": [
+            "arthropoda",
+            "chordata",
+            "mammalia"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "recycling",
+        "distractors": [
+            "reproduction",
+            "symbiosis",
+            "collecting"
+        ],
+        "sentence": "By breaking down wastes and remains of dead organisms , decomposers perform ____ function in an ecosystem ",
+        "generated_distractors": [
+            "reducing",
+            "energy-yielding",
+            "producing"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "glucose",
+        "distractors": [
+            "starch",
+            "insulin",
+            "nicotine"
+        ],
+        "sentence": "sugars are broken down into in your digestive system ____",
+        "generated_distractors": [
+            "chloride",
+            "protein",
+            "fat"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "phospholipids",
+        "distractors": [
+            "filaments",
+            "antibodies",
+            "carbon"
+        ],
+        "sentence": "the plasma membrane is mainly composed of ____",
+        "generated_distractors": [
+            "chlorophyll",
+            "proteins",
+            "triglycerides"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "celestrial",
+        "distractors": [
+            "extraterrestrial",
+            "universal",
+            "spacial"
+        ],
+        "sentence": "The sun , stars , moon , planets and comets are all type of ____ objects ",
+        "generated_distractors": [
+            "earthly",
+            "ageless",
+            "spiritual"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "motion",
+        "distractors": [
+            "radiation",
+            "gravity",
+            "speed"
+        ],
+        "sentence": "Solution nodes and antinodes are both areas of wave interference , but they differ in the presence of ____ condition ",
+        "generated_distractors": [
+            "contrast",
+            "vibration",
+            "turbulence"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "arachnids",
+        "distractors": [
+            "spiders",
+            "reptiles",
+            "crustaceans"
+        ],
+        "sentence": "While similar to insects , ____ eight-legged invertebrates lack antennae or wings ",
+        "generated_distractors": [
+            "crustaceans",
+            "arthropods",
+            "annelids"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "placenta",
+        "distractors": [
+            "uterus",
+            "mitochondria",
+            "notochord"
+        ],
+        "sentence": "____ allows the exchange of gases , nutrients , and other substances between the fetus and mother",
+        "generated_distractors": [
+            "veins",
+            "plausible",
+            "umbilical"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "parasitic",
+        "distractors": [
+            "aquatic",
+            "mutualistic",
+            "herbiverous"
+        ],
+        "sentence": "Unlike free-living species of flatworms that are predators or scavengers , ____ forms feed from the tissues of their hosts ",
+        "generated_distractors": [
+            "bacterial",
+            "viral",
+            "host"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "temperature",
+        "distractors": [
+            "matter",
+            "speed",
+            "color"
+        ],
+        "sentence": "When heat flows into an object , its thermal energy increases and so does its ____ ",
+        "generated_distractors": [
+            "density",
+            "mass",
+            "volume"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "dendrochronology",
+        "distractors": [
+            "algorithms",
+            "conservation",
+            "estradiol"
+        ],
+        "sentence": "The science of analyzing tree rings is called ____ ",
+        "generated_distractors": [
+            "chronology",
+            "geology",
+            "stenography"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "rheumatoid",
+        "distractors": [
+            "Osteoarthritis",
+            "Gout",
+            "Spondylarthropathies"
+        ],
+        "sentence": "____ of arthritis causes the immune system to attack joints",
+        "generated_distractors": [
+            "spondylitic",
+            "osteoclastic",
+            "systemic"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "homeostasis",
+        "distractors": [
+            "cancerous",
+            "hypothesis",
+            "consciousness"
+        ],
+        "sentence": "____ is achieved when the body 's internal environment is kept more-or-less constant",
+        "generated_distractors": [
+            "homecoming",
+            "hibernation",
+            "regeneration"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "energy",
+        "distractors": [
+            "pressure",
+            "fuel",
+            "exercise"
+        ],
+        "sentence": "Kinetic and potential are two forms of ____ ",
+        "generated_distractors": [
+            "fuel",
+            "heat",
+            "light"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "gills",
+        "distractors": [
+            "lungs",
+            "pores",
+            "diaphragm"
+        ],
+        "sentence": "aquatic arthropods use ____ to exchange gases",
+        "generated_distractors": [
+            "pores",
+            "tails",
+            "nose"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "three",
+        "distractors": [
+            "one",
+            "five",
+            "two"
+        ],
+        "sentence": "there are ____ types of galaxies",
+        "generated_distractors": [
+            "two",
+            "five",
+            "four"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "sunlight",
+        "distractors": [
+            "food",
+            "precipitation",
+            "makeup"
+        ],
+        "sentence": "Skin color is controlled by genes but also influenced by exposure to ____ ",
+        "generated_distractors": [
+            "milk",
+            "food",
+            "water"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "collisions",
+        "distractors": [
+            "electric",
+            "explosions",
+            "waves"
+        ],
+        "sentence": "Higher temperatures increase the rate of reaction in a lot of chemical reactions because they increase the frequency of ____ interaction between reactant particles ",
+        "generated_distractors": [
+            "segregation",
+            "evaporation",
+            "conduction"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "joints",
+        "distractors": [
+            "cartilage",
+            "muscles",
+            "nerves"
+        ],
+        "sentence": "Knees and elbows are examples of ____ part of the skeletal system ",
+        "generated_distractors": [
+            "frames",
+            "weights",
+            "muscles"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "mitosis",
+        "distractors": [
+            "meiosis",
+            "epistasis",
+            "cytokinesis"
+        ],
+        "sentence": "The process in which the nucleus divides is called ____ ",
+        "generated_distractors": [
+            "cytokinesis",
+            "mutation",
+            "epistasis"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "antennae",
+        "distractors": [
+            "thorax",
+            "fins",
+            "eyes"
+        ],
+        "sentence": "ants use ____ of the body to detect chemicals",
+        "generated_distractors": [
+            "head",
+            "tails",
+            "mouth"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "adhesion",
+        "distractors": [
+            "absorption",
+            "degradation",
+            "diffusion"
+        ],
+        "sentence": "Water has the properties of cohesion and ____ ",
+        "generated_distractors": [
+            "viscosity",
+            "evaporation",
+            "conduction"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "evolution",
+        "distractors": [
+            "dessication",
+            "gravity",
+            "implementation"
+        ],
+        "sentence": "Fitness and natural selection are parts of ____ theory that might describe how organisms change over time ",
+        "generated_distractors": [
+            "innovation",
+            "maturity",
+            "decline"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "osteoporosis",
+        "distractors": [
+            "fibrosis",
+            "lupus",
+            "arthritis"
+        ],
+        "sentence": "a common age-related bone disease in which bone density and strength is decreased is ____",
+        "generated_distractors": [
+            "rheumatoid",
+            "alopecia",
+            "anemia"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "homeostatis",
+        "distractors": [
+            "density",
+            "fluctuations",
+            "polarity"
+        ],
+        "sentence": "Osteoclasts break down bone to maintain mineral ____ ",
+        "generated_distractors": [
+            "blood",
+            "plasma",
+            "urine"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "simple",
+        "distractors": [
+            "binary",
+            "atomic",
+            "complex"
+        ],
+        "sentence": "____ carbohydrates can be classified in terms of chain length ",
+        "generated_distractors": [
+            "fructose",
+            "sugar",
+            "complex"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "negative",
+        "distractors": [
+            "positive",
+            "neutral",
+            "certain"
+        ],
+        "sentence": "The oxygen regions of the water molecules have ____ kind of charge ",
+        "generated_distractors": [
+            "neutral",
+            "positive",
+            "constant"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "oxygen",
+        "distractors": [
+            "silicon",
+            "methane",
+            "carbon"
+        ],
+        "sentence": "Aldehydes , ketones , carboxylic acids , esters , and ethers all have functional groups containing ____ element ",
+        "generated_distractors": [
+            "nitrogen",
+            "carbon",
+            "sulfur"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "anions",
+        "distractors": [
+            "cations",
+            "bonds",
+            "crystals"
+        ],
+        "sentence": "What forms ____ an atom gains electrons ",
+        "generated_distractors": [
+            "electrons",
+            "ions",
+            "protons"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "lead",
+        "distractors": [
+            "gold",
+            "silver",
+            "aluminum"
+        ],
+        "sentence": "____ is typically used to shield things from gamma rays",
+        "generated_distractors": [
+            "silver",
+            "copper",
+            "aluminum"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "bark",
+        "distractors": [
+            "cuticle",
+            "scale",
+            "epidermis"
+        ],
+        "sentence": "the combination of tissues that provides a tough , woody external covering on the stems of trees called is ____",
+        "generated_distractors": [
+            "breeze",
+            "cellulose",
+            "wood"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "fracking",
+        "distractors": [
+            "erupting",
+            "permeating",
+            "drilling"
+        ],
+        "sentence": "another term for hydraulic fracturing is ____",
+        "generated_distractors": [
+            "baking",
+            "bribery",
+            "baiting"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "resistance",
+        "distractors": [
+            "polarity",
+            "antagonism",
+            "diffusion"
+        ],
+        "sentence": "____ means opposition to the flow of electric charges that occurs when electric current travels through matter",
+        "generated_distractors": [
+            "temperature",
+            "resistance",
+            "convection"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "hormones",
+        "distractors": [
+            "steroids",
+            "enzymes",
+            "acids"
+        ],
+        "sentence": "____ affects the onset of puberty and duration",
+        "generated_distractors": [
+            "diets",
+            "drugs",
+            "mindset"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "genes",
+        "distractors": [
+            "power",
+            "structure",
+            "babies"
+        ],
+        "sentence": "A mutation is a random change in an organism 's ____ ",
+        "generated_distractors": [
+            "ribosomes",
+            "proteins",
+            "cells"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "joints",
+        "distractors": [
+            "bonds",
+            "cells",
+            "muscles"
+        ],
+        "sentence": "Synovial and ball-and-socket are both types of ____ ",
+        "generated_distractors": [
+            "frames",
+            "shafts",
+            "screws"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "rock",
+        "distractors": [
+            "forest",
+            "sand",
+            "soil"
+        ],
+        "sentence": "Most liquid freshwater is under the ground in layers of ____ ",
+        "generated_distractors": [
+            "soil",
+            "plant",
+            "animal"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "dominant",
+        "distractors": [
+            "submissive",
+            "internal",
+            "external"
+        ],
+        "sentence": "gain-of-function mutations usually result in ____",
+        "generated_distractors": [
+            "dominant",
+            "recessive",
+            "polygenic"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "mutations",
+        "distractors": [
+            "microbes",
+            "parasites",
+            "radiation"
+        ],
+        "sentence": "the key to species evolving are ____",
+        "generated_distractors": [
+            "abortions",
+            "births",
+            "evolvements"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "suprahyoid",
+        "distractors": [
+            "spicule",
+            "spirogyra",
+            "Hybrid"
+        ],
+        "sentence": "____ raise the hyoid bone , the floor of the mouth , and the larynx during deglutition",
+        "generated_distractors": [
+            "infrhyoid",
+            "subhyoid",
+            "gluteus"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "potential",
+        "distractors": [
+            "magnetic",
+            "mechanical",
+            "kinetic"
+        ],
+        "sentence": "____ of energy is stored in an object because of its position or shape",
+        "generated_distractors": [
+            "kinetic",
+            "mechanical",
+            "spectral"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "eukaryotes",
+        "distractors": [
+            "isolates",
+            "prokaryotes",
+            "membranes"
+        ],
+        "sentence": "multicellular what are ____",
+        "generated_distractors": [
+            "protazoa",
+            "eukaryot",
+            "sporozoan"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "gills",
+        "distractors": [
+            "shells",
+            "scales",
+            "pores"
+        ],
+        "sentence": "ocean mollusks use ____ to absorb oxygen from the water",
+        "generated_distractors": [
+            "pores",
+            "tails",
+            "nose"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "gravity",
+        "distractors": [
+            "nuclear",
+            "frictional",
+            "tension"
+        ],
+        "sentence": "____ increases a slide downhill and decreases a slide uphill",
+        "generated_distractors": [
+            "friction",
+            "electricity",
+            "magnetism"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "amniotic",
+        "distractors": [
+            "epithelial",
+            "amphibious",
+            "aqueous"
+        ],
+        "sentence": "fully terrestrial vertebrates carry ____ of eggs",
+        "generated_distractors": [
+            "developmental",
+            "acoustic",
+            "axons"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "chemical",
+        "distractors": [
+            "toxic",
+            "natural",
+            "artificial"
+        ],
+        "sentence": "____ of weathering causes the minerals in a rock to change",
+        "generated_distractors": [
+            "physical",
+            "biochemical",
+            "mechanical"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "freezing",
+        "distractors": [
+            "condensation",
+            "boiling",
+            "melting"
+        ],
+        "sentence": "What is the process in ____ a liquid changes to a solid ",
+        "generated_distractors": [
+            "melting",
+            "evaporation",
+            "transpiration"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "erosion",
+        "distractors": [
+            "migration",
+            "evolution",
+            "immigration"
+        ],
+        "sentence": "By pulling out grass by its roots and over-grazing , livestock contribute to ____ negative process ",
+        "generated_distractors": [
+            "migration",
+            "mining",
+            "destruction"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "chlorophyll",
+        "distractors": [
+            "chloroplasm",
+            "sodium",
+            "melanin"
+        ],
+        "sentence": "The chloroplasts contain a green pigment called ____ ",
+        "generated_distractors": [
+            "chloride",
+            "plasma",
+            "copper"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "supersaturation",
+        "distractors": [
+            "polymerisation",
+            "density",
+            "alkalinity"
+        ],
+        "sentence": "____ occurs when the amount of solute dissolved exceeds the solubility",
+        "generated_distractors": [
+            "saturation",
+            "equilibrium",
+            "depression"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "centrosomes",
+        "distractors": [
+            "centricles",
+            "tubercles",
+            "enterocytes"
+        ],
+        "sentence": "Centrioles are a very important part of ____ ",
+        "generated_distractors": [
+            "kinetics",
+            "cytoskeleton",
+            "mitosis"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "zero",
+        "distractors": [
+            "three",
+            "two",
+            "one"
+        ],
+        "sentence": "the volume of the molecules of an ideal gas is ____",
+        "generated_distractors": [
+            "infinity",
+            "100",
+            "25"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "ovaries",
+        "distractors": [
+            "brain",
+            "intestine",
+            "pancreas"
+        ],
+        "sentence": "eggs are formed in ____ of the body",
+        "generated_distractors": [
+            "spermatazoa",
+            "testes",
+            "germany"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "voltage",
+        "distractors": [
+            "slimy",
+            "moisture",
+            "magnetic"
+        ],
+        "sentence": "Combining the voltages of the oxidation and reduction half reactions helps to determine ____ ",
+        "generated_distractors": [
+            "amperage",
+            "energy",
+            "wattage"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "heat",
+        "distractors": [
+            "chemical",
+            "temperature",
+            "motion"
+        ],
+        "sentence": "When energy is captured or transformed , it inevitably degrades and becomes ____ less useful form of energy ",
+        "generated_distractors": [
+            "light",
+            "electricity",
+            "waste"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "kidneys",
+        "distractors": [
+            "lungs",
+            "pancreas",
+            "liver"
+        ],
+        "sentence": "____ organs filter wastes from blood so they can be excreted from the body ",
+        "generated_distractors": [
+            "liver",
+            "lungs",
+            "gallbladder"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "ovaries",
+        "distractors": [
+            "testes",
+            "tubules",
+            "glands"
+        ],
+        "sentence": "female gonads are normally called ____",
+        "generated_distractors": [
+            "testes",
+            "thyroid",
+            "gallbladder"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "oils",
+        "distractors": [
+            "vegetables",
+            "salts",
+            "minerals"
+        ],
+        "sentence": "Lipids are biochemical compounds such as fats and ____",
+        "generated_distractors": [
+            "particles",
+            "proteins",
+            "veins"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "diffusion",
+        "distractors": [
+            "permeation",
+            "absorption",
+            "convection"
+        ],
+        "sentence": "the process of small molecules is passing ____ through the plasma membrane called",
+        "generated_distractors": [
+            "conduction",
+            "diffusion",
+            "convection"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "diaphragm",
+        "distractors": [
+            "cartilage",
+            "thorax",
+            "diagram"
+        ],
+        "sentence": "a sheet of muscle that spreads across the bottom of the rib cage is ____",
+        "generated_distractors": [
+            "collarbone",
+            "heart",
+            "lungs"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "mutagens",
+        "distractors": [
+            "pollutants",
+            "catalysts",
+            "carcinogens"
+        ],
+        "sentence": "the term for environmental causes of mutations is ____",
+        "generated_distractors": [
+            "stresses",
+            "microbes",
+            "toxins"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "three",
+        "distractors": [
+            "two",
+            "four",
+            "one"
+        ],
+        "sentence": "frogs have ____ eyelid membranes",
+        "generated_distractors": [
+            "two",
+            "one",
+            "four"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "alkanes",
+        "distractors": [
+            "catalysts",
+            "enzymes",
+            "aldehydes"
+        ],
+        "sentence": "another word for saturated hydrocarbons is ____",
+        "generated_distractors": [
+            "isotopes",
+            "fats",
+            "carbon"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "nylon",
+        "distractors": [
+            "styrofoam",
+            "cellophane",
+            "aluminum"
+        ],
+        "sentence": "____ is derived from hydrocarbons and used in ropes , tents and parachutes",
+        "generated_distractors": [
+            "polyester",
+            "wood",
+            "plastic"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "fats",
+        "distractors": [
+            "acids",
+            "sugars",
+            "proteins"
+        ],
+        "sentence": "____ are considered solid lipids that animals use to store energy",
+        "generated_distractors": [
+            "proteins",
+            "proteins",
+            "carbohydrates"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "ovaries",
+        "distractors": [
+            "lungs",
+            "glands",
+            "kidneys"
+        ],
+        "sentence": "The small , egg-shaped organs that lie on either side of the uterus are called ____",
+        "generated_distractors": [
+            "testes",
+            "microscopic",
+            "clusters"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "interspecific",
+        "distractors": [
+            "intraspecific",
+            "beneficial",
+            "mimicry"
+        ],
+        "sentence": "____ leads to one species going extinct or both becoming more specialized",
+        "generated_distractors": [
+            "intensive",
+            "extensive",
+            "industrial"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "radiation",
+        "distractors": [
+            "sound",
+            "light",
+            "dust"
+        ],
+        "sentence": "every star emit ____ that humans can not see",
+        "generated_distractors": [
+            "light",
+            "heat",
+            "electricity"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "digestion",
+        "distractors": [
+            "absorption",
+            "regression",
+            "filtration"
+        ],
+        "sentence": "____ is used to chemically and mechanically break down the food you eat into smaller parts",
+        "generated_distractors": [
+            "absorption",
+            "filtration",
+            "circulation"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "disorders",
+        "distractors": [
+            "deformities",
+            "problems",
+            "diseases"
+        ],
+        "sentence": "Having extra chromosomes or damaged chromosomes can cause ____ ",
+        "generated_distractors": [
+            "deformities",
+            "mutations",
+            "cancers"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "interference",
+        "distractors": [
+            "accumulation",
+            "frequency",
+            "synchrony"
+        ],
+        "sentence": "it is called ____ when two waves in the same medium pass one another",
+        "generated_distractors": [
+            "cancellation",
+            "resonance",
+            "synchronization"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "bacteria",
+        "distractors": [
+            "virus",
+            "pests",
+            "algae"
+        ],
+        "sentence": "A type of ____ in a cow 's gut enables the animal to digest grass ",
+        "generated_distractors": [
+            "fiber",
+            "protein",
+            "water"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "cells",
+        "distractors": [
+            "pigments",
+            "seeds",
+            "lipids"
+        ],
+        "sentence": "____ are called the building blocks of life and comprise all living things",
+        "generated_distractors": [
+            "neurotransmitters",
+            "proteins",
+            "lipids"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "chemistry",
+        "distractors": [
+            "astronomy",
+            "climatology",
+            "geology"
+        ],
+        "sentence": "the study of the interaction between matter and energy is called ____",
+        "generated_distractors": [
+            "geology",
+            "physiology",
+            "physics"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "wind",
+        "distractors": [
+            "butterflies",
+            "larvae",
+            "bees"
+        ],
+        "sentence": "Flowers pollinated by ____ means generally lack brightly colored parts ",
+        "generated_distractors": [
+            "natural",
+            "winter",
+            "natural"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "force",
+        "distractors": [
+            "mass",
+            "energy",
+            "leverage"
+        ],
+        "sentence": "In physics , work means the use of ____ to move an object ",
+        "generated_distractors": [
+            "energy",
+            "weight",
+            "momentum"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "accuracy",
+        "distractors": [
+            "estimation",
+            "frequency",
+            "prediction"
+        ],
+        "sentence": " making measurements that are close to the true value known as ____",
+        "generated_distractors": [
+            "precision",
+            "efficiency",
+            "accuracy"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "ions",
+        "distractors": [
+            "crystals",
+            "atoms",
+            "hydrogens"
+        ],
+        "sentence": "____ are created based upon the loss or gain of electrons",
+        "generated_distractors": [
+            "atoms",
+            "particles",
+            "ions"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "monotreme",
+        "distractors": [
+            "prosauropod",
+            "Eutheria",
+            "Metatheria"
+        ],
+        "sentence": "Females of ____ mammalian group have mammary glands but lack nipples ",
+        "generated_distractors": [
+            "viviparus",
+            "amphibian",
+            "homozygous"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "enzymes",
+        "distractors": [
+            "carbohydrates",
+            "hormones",
+            "soil"
+        ],
+        "sentence": "____ helps fungus digest cellulose and other materials found in rotting matter",
+        "generated_distractors": [
+            "proteins",
+            "bacteria",
+            "nitrates"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "fat",
+        "distractors": [
+            "meat",
+            "nuts",
+            "treasure"
+        ],
+        "sentence": "In ____ form of lipids cells store energy for long-term use ",
+        "generated_distractors": [
+            "cellulose",
+            "protein",
+            "carbohydrate"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "co2",
+        "distractors": [
+            "hydrogen",
+            "glucose",
+            "helium"
+        ],
+        "sentence": "____ is released into the atmosphere when fossil fuels are burned",
+        "generated_distractors": [
+            "Heat",
+            "C02",
+            "Methane"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "plasma",
+        "distractors": [
+            "energy",
+            "ice",
+            "power"
+        ],
+        "sentence": "____ of matter completes the list : solid , liquid , gas",
+        "generated_distractors": [
+            "carbon",
+            "light",
+            "electrical"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "cardiovascular",
+        "distractors": [
+            "digestive",
+            "pulminary",
+            "respiratory"
+        ],
+        "sentence": "The heart , blood vessels , and blood make up ____ system in the body ",
+        "generated_distractors": [
+            "gastrointestinal",
+            "skeletal",
+            "nervous"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "inches",
+        "distractors": [
+            "gallons",
+            "feet",
+            "pounds"
+        ],
+        "sentence": "____ of measurement is typically used for rainfall",
+        "generated_distractors": [
+            "grams",
+            "liters",
+            "tons"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "growth",
+        "distractors": [
+            "expansion",
+            "replication",
+            "reproduction"
+        ],
+        "sentence": "it is called ____ when bones get longer and bigger",
+        "generated_distractors": [
+            "expansion",
+            "contraction",
+            "cycling"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "move",
+        "distractors": [
+            "breathe",
+            "look",
+            "eat"
+        ],
+        "sentence": "skeletal muscles enable the body to ____",
+        "generated_distractors": [
+            "breathe",
+            "speak",
+            "answer questions"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "metabolism",
+        "distractors": [
+            "respiration",
+            "growth",
+            "immunity"
+        ],
+        "sentence": "the sum total of all body reactions is ____",
+        "generated_distractors": [
+            "inspiration",
+            "regeneration",
+            "respiration"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "physical",
+        "distractors": [
+            "visible",
+            "thermal",
+            "invisible"
+        ],
+        "sentence": "characteristics that describe matter are ____ of properties",
+        "generated_distractors": [
+            "chemical",
+            "theoretical",
+            "logical"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "pressure",
+        "distractors": [
+            "light",
+            "pull",
+            "weight"
+        ],
+        "sentence": "What results ____ gas particles rebound off the walls of their container ",
+        "generated_distractors": [
+            "density",
+            "speed",
+            "weight"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "energy",
+        "distractors": [
+            "force",
+            "hydrogen",
+            "pressure"
+        ],
+        "sentence": "the ability to cause changes in matter is ____",
+        "generated_distractors": [
+            "speed",
+            "weight",
+            "fill"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "pathogens",
+        "distractors": [
+            "allergies",
+            "obesity",
+            "parasites"
+        ],
+        "sentence": "phagocytosis defend the body from ____",
+        "generated_distractors": [
+            "molecules",
+            "toxins",
+            "nutrients"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "weight",
+        "distractors": [
+            "density",
+            "volume",
+            "velocity"
+        ],
+        "sentence": "____ measures the force of gravity pulling on an object",
+        "generated_distractors": [
+            "speed",
+            "mass",
+            "momentum"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "warm",
+        "distractors": [
+            "cool",
+            "cold",
+            "both"
+        ],
+        "sentence": "coral reefs are ____ found in warm or cold water",
+        "generated_distractors": [
+            "deep",
+            "cold",
+            "surface"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "small",
+        "distractors": [
+            "random",
+            "complex",
+            "high"
+        ],
+        "sentence": "The large positive free energy change leads to a value that is extremely ____ ",
+        "generated_distractors": [
+            "large",
+            "almost",
+            "significant"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "cloaca",
+        "distractors": [
+            "hypothalamus",
+            "pristil",
+            "ovules"
+        ],
+        "sentence": "the body cavity that reptiles have that is involved in reproduction is ____",
+        "generated_distractors": [
+            "anus",
+            "phallus",
+            "mouth"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "mitosis",
+        "distractors": [
+            "osmosis",
+            "evaporation",
+            "divergence"
+        ],
+        "sentence": "During asexual reproduction , fungi produce haploid spores by ____ process involving a haploid parent cell ",
+        "generated_distractors": [
+            "meiosis",
+            "gametogenesis",
+            "cytokinesis"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "mitochondria",
+        "distractors": [
+            "glucose",
+            "lipids",
+            "nucleus"
+        ],
+        "sentence": "In eukaryotes , oxidative phosphorylation takes place in ____ ",
+        "generated_distractors": [
+            "nucleus",
+            "proton",
+            "ribosomes"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "hyphae",
+        "distractors": [
+            "cilia",
+            "cytoplasm",
+            "flagella"
+        ],
+        "sentence": "fungi use ____ to penetrate deep into decaying matter",
+        "generated_distractors": [
+            "cells",
+            "bacteria",
+            "veins"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "gas",
+        "distractors": [
+            "soild",
+            "plasma",
+            "liquid"
+        ],
+        "sentence": "Under appropriate conditions , the attractions between all molecules in ____ state will cause them to form liquids or solids ",
+        "generated_distractors": [
+            "plasma",
+            "liquid",
+            "gas"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "pressure",
+        "distractors": [
+            "weight",
+            "resistance",
+            "energy"
+        ],
+        "sentence": "____ else besides temperature has an effect on the phase of a substance",
+        "generated_distractors": [
+            "speed",
+            "gravity",
+            "electricity"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "ecdysozoa",
+        "distractors": [
+            "protists",
+            "spirogyra",
+            "trichina"
+        ],
+        "sentence": "Animals that molt their exoskeletons belong to ____ clade ",
+        "generated_distractors": [
+            "chordata",
+            "sporozoa",
+            "xerophyte"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "weathering",
+        "distractors": [
+            "erosion",
+            "bracing",
+            "bleaching"
+        ],
+        "sentence": "the process that breaks down rocks into smaller pieces is ____",
+        "generated_distractors": [
+            "abrasion",
+            "corrosion",
+            "grinding"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "humidity",
+        "distractors": [
+            "haze",
+            "ambient",
+            "saturation"
+        ],
+        "sentence": "the measurement for the amount of water vapor in the air is ____",
+        "generated_distractors": [
+            "temperature",
+            "pressure",
+            "ambient"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "digestion",
+        "distractors": [
+            "filtration",
+            "excretion",
+            "circulation"
+        ],
+        "sentence": "After ____ stage do the last 2 stages of food processing occur ",
+        "generated_distractors": [
+            "consumption",
+            "metabolism",
+            "disposal"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "chlorophyll",
+        "distractors": [
+            "oxygen",
+            "carbonate",
+            "energy"
+        ],
+        "sentence": "Leaves respond to these environmental stimuli by producing less ____ ",
+        "generated_distractors": [
+            "glucose",
+            "alkaline",
+            "uric"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "monotremes",
+        "distractors": [
+            "viviparous",
+            "herbivores",
+            "marsupial"
+        ],
+        "sentence": "Mammals that lay eggs are called ____ ",
+        "generated_distractors": [
+            "viviparus",
+            "amphibians",
+            "herbivores"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "mathematical",
+        "distractors": [
+            "experimental",
+            "fundamental",
+            "theoretical"
+        ],
+        "sentence": "Models may be physical , conceptual , or ____ ",
+        "generated_distractors": [
+            "experimental",
+            "psychological",
+            "natural"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "decomposers",
+        "distractors": [
+            "producers",
+            "consumers",
+            "probiotics"
+        ],
+        "sentence": "____ of living things break down dead organisms and recycle their nutrients into the soil",
+        "generated_distractors": [
+            "predators",
+            "prey",
+            "producers"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "drug",
+        "distractors": [
+            "treatment",
+            "toxin",
+            "gift"
+        ],
+        "sentence": "____ describes any chemical that affects the body ' s structure or function",
+        "generated_distractors": [
+            "energy",
+            "medicine",
+            "nutrient"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "secretin",
+        "distractors": [
+            "progesterone",
+            "gastrin",
+            "oxygen"
+        ],
+        "sentence": "The entry of acidic chyme into the duodenum stimulates the release of ____ ",
+        "generated_distractors": [
+            "pepsin",
+            "stomach",
+            "apelin"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "wave",
+        "distractors": [
+            "filament",
+            "shift",
+            "wire"
+        ],
+        "sentence": "Intensity is defined to be the power per unit area carried by a ____ ",
+        "generated_distractors": [
+            "sun",
+            "star",
+            "planet"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "liquids",
+        "distractors": [
+            "gases",
+            "solids",
+            "loads"
+        ],
+        "sentence": "____ takes the shape of the container they are placed in and have a definite volume",
+        "generated_distractors": [
+            "plasma",
+            "gases",
+            "solids"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "polar",
+        "distractors": [
+            "ionic",
+            "uneven",
+            "crooked"
+        ],
+        "sentence": "Due to the difference in the distribution of charge , water is ____ type of molecule ",
+        "generated_distractors": [
+            "live",
+            "slow",
+            "Binary"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "iron",
+        "distractors": [
+            "gold",
+            "helium",
+            "silver"
+        ],
+        "sentence": "In a model of a hemoglobin molecule , the purple part indicates the presence of ____ element ",
+        "generated_distractors": [
+            "cobalt",
+            "molybdenum",
+            "silver"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "acid",
+        "distractors": [
+            "base",
+            "carbon",
+            "oxygen"
+        ],
+        "sentence": "____ of substance is considered a proton donor in a reaction",
+        "generated_distractors": [
+            "base",
+            "enzyme",
+            "water"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "sarcolemma",
+        "distractors": [
+            "sheath",
+            "annulata",
+            "soleus"
+        ],
+        "sentence": "The plasma membrane of a skeletal muscle fiber is called the ____ ",
+        "generated_distractors": [
+            "cytoplasm",
+            "myosin",
+            "neuron"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "weight",
+        "distractors": [
+            "momentum",
+            "density",
+            "magnetism"
+        ],
+        "sentence": "the force is pulling an object downward called ____",
+        "generated_distractors": [
+            "gravity",
+            "friction",
+            "electricity"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "forelimbs",
+        "distractors": [
+            "ankles",
+            "knees",
+            "necks"
+        ],
+        "sentence": "____ of all mammals have the same basic bone structure",
+        "generated_distractors": [
+            "skulls",
+            "hindlimbs",
+            "mouths"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "element",
+        "distractors": [
+            "state",
+            "property",
+            "material"
+        ],
+        "sentence": "The symbol for each ____ is usually the first letter or two of its name ",
+        "generated_distractors": [
+            "atom",
+            "compound",
+            "mixture"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "metabolic",
+        "distractors": [
+            "growth",
+            "respiration",
+            "reproduction"
+        ],
+        "sentence": "Bioluminescence is an example of ____ type of activity that is carried out by a cell and is precisely coordinated and controlled ",
+        "generated_distractors": [
+            "sensory",
+            "circulatory",
+            "excretory"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "plantar",
+        "distractors": [
+            "phalanges",
+            "renal",
+            "glandular"
+        ],
+        "sentence": "____ is commonly tested in newborn infants to establish the presence of neuromuscular function",
+        "generated_distractors": [
+            "gastric",
+            "salivary",
+            "endocrine"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "spiral",
+        "distractors": [
+            "cube",
+            "conical",
+            "cylindrical"
+        ],
+        "sentence": "the distinctive shape of the molecule that contains genetic information is ____",
+        "generated_distractors": [
+            "cube",
+            "column",
+            "petri"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "sexually",
+        "distractors": [
+            "asexually",
+            "flowering",
+            "grafting"
+        ],
+        "sentence": "most echinoderms reproduce ____",
+        "generated_distractors": [
+            "asexually",
+            "sporadically",
+            "biologically"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "electromagnets",
+        "distractors": [
+            "resonances",
+            "generators",
+            "fans"
+        ],
+        "sentence": "electric motors use ____ to change electrical energy into kinetic",
+        "generated_distractors": [
+            "cubic cores",
+            "electrons",
+            "protons"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "cytoplasm",
+        "distractors": [
+            "rna",
+            "chlorophyll",
+            "protein"
+        ],
+        "sentence": "prokaryotic cells are filled with ____",
+        "generated_distractors": [
+            "lipids",
+            "proteins",
+            "cytoskeleton"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "algae",
+        "distractors": [
+            "sponge",
+            "arthropod",
+            "bacteria"
+        ],
+        "sentence": "the name of plant-like protists is ____",
+        "generated_distractors": [
+            "mushrooms",
+            "gymnosperms",
+            "ferns"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "mucus",
+        "distractors": [
+            "sweat",
+            "pus",
+            "saliva"
+        ],
+        "sentence": "A sticky , moist secretion that covers mucous membranes is called ____ ",
+        "generated_distractors": [
+            "saliva",
+            "phlegm",
+            "pus"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "excretory",
+        "distractors": [
+            "homeostasis",
+            "nervous",
+            "digestive"
+        ],
+        "sentence": "____ lets flatworms maintain a proper balance of water and salts",
+        "generated_distractors": [
+            "digestive",
+            "respiratory",
+            "reproductive"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "amniotes",
+        "distractors": [
+            "carnivorous",
+            "vertebrates",
+            "lineages"
+        ],
+        "sentence": "Because their embryos are surrounded by a thin membrane , reptiles are considered ____ ",
+        "generated_distractors": [
+            "archaeoteves",
+            "xerophytes",
+            "gymnosperms"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "different",
+        "distractors": [
+            "round",
+            "difficult",
+            "similar"
+        ],
+        "sentence": "Physical and chemical properties of geometric isomers are generally ____ ",
+        "generated_distractors": [
+            "similar",
+            "same",
+            "distinct"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "prokaryotic",
+        "distractors": [
+            "trophic",
+            "graphic",
+            "monophyletic"
+        ],
+        "sentence": "____ of cell has a singular chromosome , no nucleus , and few other organelles",
+        "generated_distractors": [
+            "eukaryotic",
+            "zygomorphic",
+            "endotrophic"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "eukaryotic",
+        "distractors": [
+            "xylem",
+            "enzymes",
+            "parenchyma"
+        ],
+        "sentence": "Protists , fungi , animals , and plants all consist of ____ kind of cells ",
+        "generated_distractors": [
+            "bacterial",
+            "viruses",
+            "eukaryotes"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "mouth",
+        "distractors": [
+            "stomach",
+            "tongue",
+            "esophagus"
+        ],
+        "sentence": "the first digestive organ that food enters is ____",
+        "generated_distractors": [
+            "nose",
+            "lungs",
+            "heart"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "two",
+        "distractors": [
+            "three",
+            "four",
+            "twelve"
+        ],
+        "sentence": "Insulin is made up of ____ many polypeptide chains ",
+        "generated_distractors": [
+            "nine",
+            "six",
+            "three"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "liver",
+        "distractors": [
+            "kidney",
+            "pancreas",
+            "heart"
+        ],
+        "sentence": "____ creates bile",
+        "generated_distractors": [
+            "kidney",
+            "lungs",
+            "nervous"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "molecule",
+        "distractors": [
+            "element",
+            "synthesis",
+            "nucleus"
+        ],
+        "sentence": "____ is used for any combination of two or more atoms",
+        "generated_distractors": [
+            "atom",
+            "compound",
+            "mixture"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "cervix",
+        "distractors": [
+            "urethra",
+            "ovary",
+            "vulva"
+        ],
+        "sentence": "the name of the part that connects the vagina with the uterus is ____",
+        "generated_distractors": [
+            "uterus",
+            "clitoris",
+            "ovaries"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "water",
+        "distractors": [
+            "magma",
+            "gases",
+            "air"
+        ],
+        "sentence": "Geysers are created when ____ is heated beneath the earth 's surface ",
+        "generated_distractors": [
+            "rock",
+            "air",
+            "steam"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "weight",
+        "distractors": [
+            "factor",
+            "mass",
+            "volume"
+        ],
+        "sentence": "the measure of the force of gravity is pulling down on an object called ____",
+        "generated_distractors": [
+            "velocity",
+            "mass",
+            "motion"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "placenta",
+        "distractors": [
+            "uterus",
+            "glucose",
+            "Stomach"
+        ],
+        "sentence": "A yolk sac replaces ____ structure for nourishing a marsupial embryo ",
+        "generated_distractors": [
+            "mother",
+            "testes",
+            "egg"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "fertilization",
+        "distractors": [
+            "Sperm",
+            "embryo",
+            "stimulation"
+        ],
+        "sentence": "the process of the fusion of a sperm and an egg is called ____",
+        "generated_distractors": [
+            "migration",
+            "pollination",
+            "infection"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "pronation",
+        "distractors": [
+            "extension",
+            "flexion",
+            "supination"
+        ],
+        "sentence": "the motion that moves the forearm from the supinated position to the pronated position is ____",
+        "generated_distractors": [
+            "rotation",
+            "torsion",
+            "adoption"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "insects",
+        "distractors": [
+            "fruits",
+            "spiders",
+            "mice"
+        ],
+        "sentence": "____ are essential for pollination , but can spread disease and destroy crops",
+        "generated_distractors": [
+            "animals",
+            "spores",
+            "plants"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "elements",
+        "distractors": [
+            "compounds",
+            "protons",
+            "matter"
+        ],
+        "sentence": "Metalloids , metals , and nonmetals are all classes of ____ ",
+        "generated_distractors": [
+            "compounds",
+            "structures",
+            "systems"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "radiation",
+        "distractors": [
+            "convection",
+            "electric",
+            "thermal"
+        ],
+        "sentence": "____ of invisible waves are used in microwaves",
+        "generated_distractors": [
+            "vibrations",
+            "heat",
+            "light"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "heart",
+        "distractors": [
+            "stomach",
+            "lungs",
+            "pancreas"
+        ],
+        "sentence": "____ muscular organ pumps blood all around your body ",
+        "generated_distractors": [
+            "stomach",
+            "lungs",
+            "brain"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "estrogen",
+        "distractors": [
+            "glucose",
+            "insulin",
+            "testosterone"
+        ],
+        "sentence": "____ causes the changes of puberty",
+        "generated_distractors": [
+            "testosterone",
+            "progesterone",
+            "cortisol"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "xylem",
+        "distractors": [
+            "collagen",
+            "ectoderm",
+            "phloem"
+        ],
+        "sentence": "____ of plant tissue transports water and dissolved mineral upward to the leaves",
+        "generated_distractors": [
+            "cortex",
+            "phyllum",
+            "fistula"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "liquid",
+        "distractors": [
+            "mixture",
+            "water",
+            "Base"
+        ],
+        "sentence": "Surface tension is a property of matter that is in ____ state ",
+        "generated_distractors": [
+            "plasma",
+            "solid",
+            "gas"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "aorta",
+        "distractors": [
+            "carotid",
+            "subclavian",
+            "femoral"
+        ],
+        "sentence": "the largest artery in the body is called ____",
+        "generated_distractors": [
+            "vein",
+            "artery",
+            "pulmonary"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "current",
+        "distractors": [
+            "pressure",
+            "resistance",
+            "density"
+        ],
+        "sentence": "A switch in a circuit controls the flow of ____ , specifically , within the circuit ",
+        "generated_distractors": [
+            "light",
+            "temperature",
+            "pressure"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "dispersal",
+        "distractors": [
+            "propagation",
+            "disposal",
+            "predation"
+        ],
+        "sentence": "Because they spread seeds , fruits are an agent of ____ ",
+        "generated_distractors": [
+            "evolution",
+            "decomposal",
+            "germination"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "unicellular",
+        "distractors": [
+            "multicellular",
+            "photosynthetic",
+            "immature"
+        ],
+        "sentence": "protists normally are ____ of eukaryotes",
+        "generated_distractors": [
+            "bacteria",
+            "multicellular",
+            "eukaryotic"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "simple",
+        "distractors": [
+            "strong",
+            "complex",
+            "weak"
+        ],
+        "sentence": "An inclined plane is a good example of ____ kind of machine ",
+        "generated_distractors": [
+            "compound",
+            "machine",
+            "vertical"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "axis",
+        "distractors": [
+            "radius",
+            "leaves",
+            "pistol"
+        ],
+        "sentence": "____ of the plant has a root end and a shoot end",
+        "generated_distractors": [
+            "leaf",
+            "stem",
+            "flower"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "physical",
+        "distractors": [
+            "chemical",
+            "visible",
+            "thermal"
+        ],
+        "sentence": "Hardness , density , color , and melting and boiling points are all considered ____ types of properties ",
+        "generated_distractors": [
+            "chemical",
+            "physical",
+            "mechanical"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "hormones",
+        "distractors": [
+            "acids",
+            "bases",
+            "enzymes"
+        ],
+        "sentence": "Low levels of thyroid hormones in the blood cause the release of ____ by the hypothalamus and pituitary gland ",
+        "generated_distractors": [
+            "neurotransmitters",
+            "fibers",
+            "tumors"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "analytical",
+        "distractors": [
+            "philosophical",
+            "reactive",
+            "symbolic"
+        ],
+        "sentence": "the study of the composition of matter is ____ of chemistry",
+        "generated_distractors": [
+            "practical",
+            "physical",
+            "theoretical"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "heart",
+        "distractors": [
+            "stomach",
+            "brain",
+            "skin"
+        ],
+        "sentence": "Regularly done aerobic activities can help build up endurance and make ____ vital organ stronger ",
+        "generated_distractors": [
+            "liver",
+            "lung",
+            "brain"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "energy",
+        "distractors": [
+            "speed",
+            "work",
+            "pressure"
+        ],
+        "sentence": "all chemical sections need ____ to get started",
+        "generated_distractors": [
+            "structure",
+            "hydrogen",
+            "electron"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "chemicals",
+        "distractors": [
+            "seeds",
+            "manure",
+            "water"
+        ],
+        "sentence": "people apply to their lawns that causes water pollution ____",
+        "generated_distractors": [
+            "grime",
+            "oils",
+            "pesticides"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "adaptations",
+        "distractors": [
+            "systems",
+            "additions",
+            "Changes"
+        ],
+        "sentence": "____ help it survive",
+        "generated_distractors": [
+            "instincts",
+            "blood",
+            "eggs"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "solvent",
+        "distractors": [
+            "solute",
+            "mixture",
+            "water"
+        ],
+        "sentence": "The major component of a solution is called ____ ",
+        "generated_distractors": [
+            "molecule",
+            "solute",
+            "liquid"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "evaporation",
+        "distractors": [
+            "condensation",
+            "transpiration",
+            "absorption"
+        ],
+        "sentence": "____ takes place when water on earth ' s surface changes to water vapor",
+        "generated_distractors": [
+            "precipitation",
+            "condensation",
+            "seismic"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "swallowing",
+        "distractors": [
+            "breathing",
+            "staring",
+            "pulling"
+        ],
+        "sentence": "The muscles of the anterior neck assist in deglutition also known as ____ ",
+        "generated_distractors": [
+            "breathing",
+            "shaking",
+            "vomiting"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "exhalation",
+        "distractors": [
+            "peroxidation",
+            "fermentation",
+            "evaporation"
+        ],
+        "sentence": "carbon dioxide and water vapor that is produced by cellular respiration released is ____",
+        "generated_distractors": [
+            "inhaled",
+            "carbon",
+            "oxygen"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "ecosystem",
+        "distractors": [
+            "community",
+            "population",
+            "biome"
+        ],
+        "sentence": "A group of living things and their environment is called ____ ",
+        "generated_distractors": [
+            "habitat",
+            "biosphere",
+            "system"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "asexual",
+        "distractors": [
+            "primitive",
+            "algal",
+            "sexual"
+        ],
+        "sentence": "Binary fission is an example of ____ type of production ",
+        "generated_distractors": [
+            "sexual",
+            "mutual",
+            "sexual"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "fossils",
+        "distractors": [
+            "archives",
+            "deposits",
+            "skulls"
+        ],
+        "sentence": "Preserved remains or traces of organisms that lived in the past are known as ____ ",
+        "generated_distractors": [
+            "taxidermy",
+            "archaeology",
+            "deposits"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "lava",
+        "distractors": [
+            "helium",
+            "grasses",
+            "water"
+        ],
+        "sentence": "Radar maps of venus show that it has mountains , canyons and volcanoes surrounded by plains of ____ ",
+        "generated_distractors": [
+            "sky",
+            "craters",
+            "earth"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "alveoli",
+        "distractors": [
+            "brachii",
+            "testes",
+            "glands"
+        ],
+        "sentence": "The lungs are a series of ever-narrowing tubes that end in a myriad of tiny sacs called ____ ",
+        "generated_distractors": [
+            "airflow",
+            "veins",
+            "lung"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "oxygen",
+        "distractors": [
+            "food",
+            "sulfur",
+            "nitrogen"
+        ],
+        "sentence": "Fish and other aquatic organisms use gills to capture dissolved ____ ",
+        "generated_distractors": [
+            "calcium",
+            "food",
+            "water"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "adulthood",
+        "distractors": [
+            "adolescence",
+            "death",
+            "childhood"
+        ],
+        "sentence": "____ does not have a definite starting point",
+        "generated_distractors": [
+            "conception",
+            "birth",
+            "death"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "ventricles",
+        "distractors": [
+            "vacuoles",
+            "cells",
+            "valves"
+        ],
+        "sentence": "____ are responsible for pumping blood out of the heart",
+        "generated_distractors": [
+            "atrium",
+            "node",
+            "ventries"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "menopause",
+        "distractors": [
+            "puberty",
+            "maturity",
+            "adolescence"
+        ],
+        "sentence": "the term for the period during which women 's ovaries stop producing eggs is ____",
+        "generated_distractors": [
+            "menstruation",
+            "puberty",
+            "diabetes"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "charophytes",
+        "distractors": [
+            "mammals",
+            "arthropods",
+            "sporozoans"
+        ],
+        "sentence": "the closest living relations are ____ to land plants",
+        "generated_distractors": [
+            "arthropods",
+            "fungi",
+            "mammals"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "probability",
+        "distractors": [
+            "mutation",
+            "difficulty",
+            "procession"
+        ],
+        "sentence": "it is called ____ when the chance that a certain event will occur",
+        "generated_distractors": [
+            "variance",
+            "interest",
+            "variance"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "diamonds",
+        "distractors": [
+            "titanium",
+            "gold",
+            "platinum"
+        ],
+        "sentence": "the hardest of all minerals is ____",
+        "generated_distractors": [
+            "steel",
+            "plastic",
+            "rock"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "bioremediation",
+        "distractors": [
+            "generation",
+            "coagulation",
+            "biodegradation"
+        ],
+        "sentence": "Use of oil-consuming bacteria to clean up an oil spill is an example of ____ ",
+        "generated_distractors": [
+            "recycling",
+            "microbiology",
+            "naturalization"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "reproduction",
+        "distractors": [
+            "variation",
+            "photosynthesis",
+            "diversification"
+        ],
+        "sentence": "the process is called in which living things produce offspring ____",
+        "generated_distractors": [
+            "differentiation",
+            "evolution",
+            "decomposition"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "depolarization",
+        "distractors": [
+            "inflammation",
+            "permeability",
+            "reproduction"
+        ],
+        "sentence": "The outer surface of the heart changes from positive to negative during ____ ",
+        "generated_distractors": [
+            "electrolysis",
+            "inhibition",
+            "ketogenesis"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "gnetophytes",
+        "distractors": [
+            "staurikosaurus",
+            "mitochondria",
+            "sporozoans"
+        ],
+        "sentence": "the closest relatives to modern angiosperms are ____",
+        "generated_distractors": [
+            "sporozoans",
+            "gymnosperms",
+            "eukaryotes"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "earth",
+        "distractors": [
+            "saturn",
+            "jupiter",
+            "mars"
+        ],
+        "sentence": "the only known planet with large amounts of water is ____",
+        "generated_distractors": [
+            "Mars",
+            "venus",
+            "Mercury"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "osteoporosis",
+        "distractors": [
+            "arthritis",
+            "tuberculosis",
+            "fibrosis"
+        ],
+        "sentence": "the disease in which bones lose mass and become more fragile and likely to break is ____",
+        "generated_distractors": [
+            "cancer",
+            "diabetes",
+            "malnutrition"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "mechanical",
+        "distractors": [
+            "slow",
+            "simple",
+            "electromagnetic"
+        ],
+        "sentence": "a purely physical process that does not change the chemical nature of the food is ____",
+        "generated_distractors": [
+            "static",
+            "inert",
+            "simple"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "coefficients",
+        "distractors": [
+            "velocities",
+            "densities",
+            "fractions"
+        ],
+        "sentence": "____ are used to balance chemical equations",
+        "generated_distractors": [
+            "variables",
+            "values",
+            "indices"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "landforms",
+        "distractors": [
+            "atmospheres",
+            "diversity",
+            "biospheres"
+        ],
+        "sentence": "Physical features on the earth 's surface are known as ____",
+        "generated_distractors": [
+            "meteorites",
+            "geysers",
+            "lakes"
+        ],
+        "rationale": ""
+    },
+    {
+        "answer": "sperm",
+        "distractors": [
+            "plasma",
+            "spore",
+            "ova"
+        ],
+        "sentence": "In sexual reproduction , ____ is the name of the gamete cell the male must contribute ",
+        "generated_distractors": [
+            "egg",
+            "zygote",
+            "gamete"
+        ],
+        "rationale": ""
+    }
+]
