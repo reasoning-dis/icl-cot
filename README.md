@@ -2,4 +2,4 @@
 
 This work is currently under peer review.  
 
-We provide the output results used in the paper, and the full code implementation will be released upon the final review decision.
+We provide the output results used in the paper, and the code implementation scripts will be released upon the final review decision.
